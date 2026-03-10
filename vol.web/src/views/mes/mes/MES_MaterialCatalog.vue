@@ -65,6 +65,7 @@ const onInit = async ($vm) => {
   gridRef.rowKey = 'CatalogID'
   //父级id字段
   gridRef.rowParentField = 'ParentId'
+  gridRef.defaultExpandAll=true;
 
 }
 let addCurrnetRow

@@ -77,4 +77,6 @@ export default {
 .el-tabs__active-bar {
   height: 1px;
 }
+
+
 </style>
